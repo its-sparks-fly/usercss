@@ -18,4 +18,7 @@ Keine
 - Neues Stylesheet "usercss.css" in jedem Theme
 
 # Link
-https://euerforum.deusercp.php?action=usercss
+https://euerforum.de/usercp.php?action=usercss
+
+# Demo
+<center><img src="https://snipboard.io/0haIBD.jpg" />
