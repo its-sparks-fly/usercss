@@ -13,3 +13,9 @@ Keine
 
 # ACP-Einstellungen
 - Profilfeld
+
+# Sonstiges
+- Neues Stylesheet "usercss.css" in jedem Theme
+
+# Link
+https://euerforum.deusercp.php?action=usercss
