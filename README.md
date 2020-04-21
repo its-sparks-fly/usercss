@@ -3,6 +3,12 @@ Dieses Plugin ermöglicht es euren Mitgliedern, einen eigenen HTML-Tag mit eigen
 Wer sich darunter nichts vorstellen kann, hier in Beispiel aus dem regulären Gebrauch:
 Als Profilfeld wird das Usernamen-Feld angegeben. Karl kann nun den HTML-Tag \<karl\> nutzen! Im User Control Panel kann Karl eine hinterlegen - und das pro Design, damit sein Tag auch überall schön lesbar ist. So kann er nun beispielsweise die wörtliche Rede seines Rollenspiel-Charakters farblich hervorheben. 
 
+# Voraussetzungen
+- Ordentlich eingerücktes CSS beim .trow1-Tag (Zeilenumbruch, Tab), Muster:
+<img src="https://snipboard.io/UpLe3l.jpg" />
+
+- Spielernamen dürfen nicht doppelt vergeben werden.
+
 # Datenbank-Änderungen
 Keine
 
